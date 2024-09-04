@@ -1,0 +1,5 @@
+node_modules
+npm-debug.log
+dist
+# Don't ignore the prisma folder
+!prisma
